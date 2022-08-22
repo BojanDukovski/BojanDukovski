@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on building my own website which u can find on my [page](https://www.bojandukovski.com).
 - 📫 How to reach me  
-<div>
+<div style="margin-left: 50px;">
     <ul>
         <li>
             a
