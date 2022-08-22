@@ -1,7 +1,7 @@
 ### Hi there 👋 This is Bojan's GitHub account
 
 - 🔭 I’m currently working on building my own website which u can find on my [page](https://www.bojandukovski.com).
-- 📫 How to reach me  - LinkedIn: Bojan Dukovski
+- 📫 How to reach me  - LinkedIn: Bojan Dukovski <br>
                        - Facebook: Bojan Dukovski
                        - Instagram: ip_v5.0
                        - Twitter: Bojan Dukovski
