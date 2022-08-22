@@ -5,7 +5,7 @@
 
 <table>
     <tr>
-        <td>LinkedIn</td> <td>Bojan Dukovski</td>
+        <td>LinkedIn</td> <td>Bojan Dukovski</td> <td> <a href="google.com">Link</a> </td>
     </tr>
     <tr>
         <td>Facebook</td> <td>Bojan Dukovski</td>
