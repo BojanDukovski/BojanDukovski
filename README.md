@@ -5,7 +5,7 @@
 
 <table>
     <tr>
-        <td>Webpage</td> <td> <a href="https://www.google.com"></a> </td>
+        <td>Webpage</td> <td> <a href="https://www.google.com">bojandukovski.com</a> </td>
     </tr>
     <tr>
         <td>E-Mail</td> <td> bojan.dukovski211@gmail.com </td>
