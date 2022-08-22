@@ -5,10 +5,10 @@
 
 <table>
     <tr>
-        <td>Webpage</td> <td> [bojandukovski.com](https://www.bojandukovski.com) </td>
+        <td>Webpage</td> <td> <a href="https://www.google.com"></a> </td>
     </tr>
     <tr>
-        <td>E-Mail</td> <td> [bojan.dukovski211@gmail.com](#) </td>
+        <td>E-Mail</td> <td> bojan.dukovski211@gmail.com </td>
     </tr>
     <tr>
         <td>LinkedIn</td> <td> [Bojan Dukovski](https://www.linkedin.com/in/bojan-dukovski-9487a9153/) </td>
