@@ -28,10 +28,3 @@
 - ⚡ Fun fact: I do take pictures, draw and paint... find more about my art skills on my [Instagram](https://www.instagram.com/ip_v5.0/) feed.
 
 ### TECH SKILLS
-<img height="50px" width="50px" src="https://logoeps.com/wp-content/uploads/2011/06/java-logo-vector.png" alt="java"> |
-
-<img height="50px" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" alt="python"> |
-
-<img height="50px" width="50px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="c#"> |
-
-<img height="50px" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW2CJIrhWie8-vEoXtbg6M97E3EPbYtAK45wU1cFK78A&s" alt="dotnetcore"> 
