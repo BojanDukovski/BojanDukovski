@@ -11,16 +11,16 @@
         <td>E-Mail</td> <td> bojan.dukovski211@gmail.com </td>
     </tr>
     <tr>
-        <td>LinkedIn</td> <td> [Bojan Dukovski](https://www.linkedin.com/in/bojan-dukovski-9487a9153/) </td>
+        <td>LinkedIn</td> <td> <a href="https://www.linkedin.com/in/bojan-dukovski-9487a9153/">Bojan Dukovski</a> </td>
     </tr>
     <tr>
-        <td>Facebook</td> <td> [Bojan Dukovski](https://www.facebook.com/leto.err) </td>
+        <td>Facebook</td> <td> <a href="https://www.facebook.com/leto.err">Bojan Dukovski</a> </td>
     </tr>
     <tr>
-        <td>Instagram</td> <td> [ip_v5.0](https://www.instagram.com/ip_v5.0/) </td>
+        <td>Instagram</td> <td> <a href="https://www.instagram.com/ip_v5.0/">ip_v5.0</a> </td>
     </tr>
     <tr>
-        <td>Twitter</td> <td> [Bojan Dukovski](https://twitter.com/BojanDukovski) </td>
+        <td>Twitter</td> <td> <a href="https://twitter.com/BojanDukovski">Bojan Dukovski</a> </td>
     </tr>
 </table>
 
