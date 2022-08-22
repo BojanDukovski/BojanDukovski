@@ -5,16 +5,22 @@
 
 <table>
     <tr>
-        <td>LinkedIn</td> <td>Bojan Dukovski</td> <td> <a href="google.com">Link</a> </td>
+        <td>Webpage</td> <td> [bojandukovski.com](https://www.bojandukovski.com) </td>
     </tr>
     <tr>
-        <td>Facebook</td> <td>Bojan Dukovski</td>
+        <td>E-Mail</td> <td> [bojan.dukovski211@gmail.com](#) </td>
     </tr>
     <tr>
-        <td>Instagram</td> <td>ip_v5.0</td>
+        <td>LinkedIn</td> <td> [Bojan Dukovski](https://www.linkedin.com/in/bojan-dukovski-9487a9153/) </td>
     </tr>
     <tr>
-        <td>Twitter</td> <td>Bojan Dukovski</td>
+        <td>Facebook</td> <td> [Bojan Dukovski](https://www.facebook.com/leto.err) </td>
+    </tr>
+    <tr>
+        <td>Instagram</td> <td> [ip_v5.0](https://www.instagram.com/ip_v5.0/) </td>
+    </tr>
+    <tr>
+        <td>Twitter</td> <td> [Bojan Dukovski](https://twitter.com/BojanDukovski) </td>
     </tr>
 </table>
 
