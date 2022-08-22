@@ -29,5 +29,5 @@
 
 ### TECH SKILLS
 
-<p style="color:red;">test</p>
+<img src="https://logoeps.com/wp-content/uploads/2011/06/java-logo-vector.png" alt="java"> Java
 
