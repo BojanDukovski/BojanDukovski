@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 This is Bojan's GitHub account
 
-<!--
-**BojanDukovski/BojanDukovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on building my own website which u can find on my [page](https://www.bojandukovski.com).
+- 📫 How to reach me  - LinkedIn: Bojan Dukovski
+                       - Facebook: Bojan Dukovski
+                       - Instagram: ip_v5.0
+                       - Twitter: Bojan Dukovski
+- ⚡ Fun fact: I do take pictures, draw and paint... find more about my art skills on my [Instagram](https://www.instagram.com/ip_v5.0/) feed.
 
-Here are some ideas to get you started:
+### TECH SKILLS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p style="color:red;">test</p>
+
