@@ -1,7 +1,7 @@
 ## Hi there 👋 This is Bojan's GitHub account
 
 
-- 🔭 I’m currently working on building my own website which u can find on my [page](https://www.bojandukovski.com).
+- 🔭 I’m currently working on building my own website which u can find on my [page](https://www.bojandukovski.herokuapp.com).
 - 📫 How to reach me  
 
 <table>
