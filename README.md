@@ -1,12 +1,12 @@
 ## Hi there 👋 This is Bojan's GitHub account
 
 
-- 🔭 I’m currently working on building my own website which u can find on my [page](http://www.bojandukovski.herokuapp.com).
+- 🔭 I’m currently working on building my own website which u can find on my [page](http://bojandukovski.herokuapp.com).
 - 📫 How to reach me  
 
 <table>
     <tr>
-        <td>Webpage</td> <td> <a href="http://www.bojandukovski.herokuapp.com">bojandukovski.com</a> </td>
+        <td>Webpage</td> <td> <a href="http://bojandukovski.herokuapp.com">bojandukovski.com</a> </td>
     </tr>
     <tr>
         <td>E-Mail</td> <td> bojan.dukovski211@gmail.com </td>
